@@ -5,10 +5,19 @@
 
     <!-- Note: For Android please see also Platforms\Android\Resources\values\colors.xml -->
 
-    <Color x:Key="Primary">#512BD4</Color>
+    <Color x:Key="Verde">Green</Color>
+    
+    <Color x:Key="Primary">#0d6efd</Color>
+    <Color x:Key="Secondary">#6c757d</Color>
+    <Color x:Key="Success">#198754</Color>
+    <Color x:Key="Danger">#dc3545</Color>
+    <Color x:Key="Warning">#ffc107</Color>
+    <Color x:Key="Info">#0dcaf0</Color>
+    <Color x:Key="Light">#f8f9fa</Color>
+    <Color x:Key="Dark">#212529</Color>
+    
     <Color x:Key="PrimaryDark">#ac99ea</Color>
     <Color x:Key="PrimaryDarkText">#242424</Color>
-    <Color x:Key="Secondary">#DFD8F7</Color>
     <Color x:Key="SecondaryDarkText">#9880e5</Color>
     <Color x:Key="Tertiary">#2B0B98</Color>
 
